@@ -11,7 +11,7 @@
 
 #### 모델 구현 및 학습
 - 상위 인지 모델에서 이미지를 직진, 좌회전, 우회전 구간으로 분류하며, 이를 위해 수집한 데이터에 labeling 수행
-- 하위 행동 모델에서 차량 제어에 필요한 Steering, Throttle 값을 추론하며, Convolution 네트워크와 Fully connected layer로 모델을 구성
+- 하위 행동 모델에서 차량 제어에 필요한 Steering, Throttle 값을 추론하며, Convolution 네트워크와 Fully Connected Layer로 모델을 구성
 
 <p float="left">
 <img src="./assets/2.png" width=300 height=200 />
